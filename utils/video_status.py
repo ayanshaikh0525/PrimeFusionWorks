@@ -59,8 +59,6 @@ def mark_processing_started(
 
 def mark_processing_completed(
     video_id,
-    processed_file_id,
-    processed_link,
     analysis
 ):
 
@@ -73,8 +71,6 @@ def mark_processing_completed(
 
     video["processed"] = {
         "exists": True,
-        "drive_file_id": processed_file_id,
-        "drive_link": processed_link,
         "analysis": analysis
     }
 
@@ -90,31 +86,6 @@ def mark_processing_completed(
     save_videos(videos)
 
 
-# mark_source_deleted
-
-def mark_source_deleted(
-    video_id
-):
-
-    videos = load_videos()
-
-    video = _get_video(
-        videos,
-        video_id
-    )
-
-    video["source"]["deleted"] = True
-
-    video.setdefault(
-        "workflow",
-        {}
-    )
-
-    video["workflow"][
-        "source_deleted"
-    ] = now()
-
-    save_videos(videos)
 
 
 # mark_uploaded
