@@ -1,0 +1,107 @@
+name: YouTube Publisher
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "0/30 * * * *" 
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    env:
+      GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
+      GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+      GOOGLE_REFRESH_TOKEN: ${{ secrets.GOOGLE_REFRESH_TOKEN }}
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Remove broken Chrome repo
+        run: |
+          sudo rm -f /etc/apt/sources.list.d/google-chrome.list
+      
+      - name: Install FFmpeg
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
+      - name: Create Auth Directory
+        run: |
+          mkdir -p auth
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+
+
+      - name: Create Service Account File
+        run: |
+          echo "${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}" | base64 -d > auth/service_account.json
+
+      - name: Create OAuth Credentials
+        run: |
+          echo "${{ secrets.YOUTUBE_CLIENT_SECRET }}" | base64 -d > auth/client_secret.json
+
+      - name: Restore YouTube Token
+        run: |
+          echo "${{ secrets.YOUTUBE_TOKEN_JSON }}" | base64 -d > auth/token.json
+
+
+      - name: Restore Drive OAuth
+        run: |
+          mkdir -p auth
+      
+      - name: Restore Drive Client Secret
+        run: |
+          echo "${{ secrets.DRIVE_CLIENT_SECRET }}" | base64 -d > auth/drive_client_secret.json
+      
+      - name: Restore Drive Token
+        run: |
+          echo "${{ secrets.DRIVE_TOKEN }}" | base64 -d > auth/drive_token.json
+      
+      - name: Restore Service Account
+        run: |
+          echo "${{ secrets.DRIVE_SERVICE_ACCOUNT_JSON }}" | base64 -d > auth/drive_service_account.json
+    
+      - name: Check Auth Files
+        run: |
+          ls -la auth
+          wc -c auth/service_account.json
+          wc -c auth/client_secret.json
+          wc -c auth/token.json
+
+      - name: Run Publisher
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SOURCE_FOLDER_ID: ${{ secrets.SOURCE_FOLDER_ID }}
+          PROCESSED_FOLDER_ID: ${{ secrets.PROCESSED_FOLDER_ID }}
+          PYTHONPATH: .
+
+        run: |
+          cd workers && python publish_youtube.py
+
+      - name: Commit Updated JSON
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add data/master_videos.json
+
+          git diff --cached --quiet || git commit -m "Update video publishing status"
+
+      - name: Push Changes
+        run: |
+          git push
