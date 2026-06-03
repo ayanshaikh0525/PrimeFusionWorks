@@ -27768,14 +27768,31 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Animation",
+        "project": "Food-Human Hybrid Metamorphosis",
+        "summary": "A collection of AI-generated transitions showing fit human figures transforming into grotesque, surreal monsters themed after common food items (Taco, Burger, Corn, Milkshake).",
+        "materials": [
+          "Taco ingredients",
+          "Hamburger ingredients",
+          "Corn on the cob",
+          "Milkshake ingredients"
+        ],
+        "tools": [
+          "Generative AI",
+          "Video animation software"
+        ],
+        "viral_hook": "What happens when you combine your favorite food with a human? The result is truly nightmare-fuel."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "_K6l69aO1v0",
+        "uploaded_at": "2026-06-03T10:15:59.516617",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -27789,6 +27806,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-03T10:15:54.281264"
     }
   },
   {
