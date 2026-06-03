@@ -30813,14 +30813,25 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art & AI Generation",
+        "project": "AI Hybrid Creature/Vehicle Mashups",
+        "summary": "This video showcases a series of AI-generated images that merge animals with machinery or vehicles. It follows a consistent pattern: displaying an animal and a machine separately, followed by a final, surreal hybrid result. The themes include an Orca-Warship, Panther-Motorcycle, Dolphin-Speedboat, and Ox-Tractor.",
+        "materials": [],
+        "tools": [
+          "AI Image Generator (e.g., Midjourney, DALL-E 3, or Stable Diffusion)"
+        ],
+        "viral_hook": "What happens when you combine an animal with a machine? The results are cooler than you think."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "OpMtnPdpWrU",
+        "uploaded_at": "2026-06-03T19:04:08.517789",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -30834,6 +30845,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-03T19:04:04.558375"
     }
   }
 ]
