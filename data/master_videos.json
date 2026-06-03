@@ -18390,14 +18390,27 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Generated Content",
+        "project": "Tank Hybrid Concept Vehicles",
+        "summary": "A creative series of AI-generated images that visualize the hybrid combination of luxury and high-performance cars (Ferrari, Bugatti, Rolls Royce, BMW) with heavy military tanks, creating 'armored' combat versions of these vehicles.",
+        "materials": [
+          "AI-generated digital art"
+        ],
+        "tools": [
+          "Generative AI image model (e.g., Midjourney, DALL-E, Stable Diffusion)"
+        ],
+        "viral_hook": "What would your dream luxury car look like if it were a military tank? Watch these extreme vehicle mashups."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "yK8ZqAJtQkc",
+        "uploaded_at": "2026-06-03T06:06:25.578580",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -18411,6 +18424,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-03T06:06:21.013110"
     }
   },
   {
