@@ -18173,14 +18173,28 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Content",
+        "project": "Mario Battle Sequence",
+        "summary": "A rapid-fire, AI-generated montage featuring a realistic depiction of Mario in various intense confrontations against a series of animals, a vampire, and Cthulhu in a city setting.",
+        "materials": [
+          "AI image generation software"
+        ],
+        "tools": [
+          "AI art generation tools (likely Midjourney or similar)",
+          "Video editing software"
+        ],
+        "viral_hook": "Who would win? A realistic Mario fighting everything from a lion to Cthulhu in the middle of a city street."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "P0D4hXskzhc",
+        "uploaded_at": "2026-06-03T22:08:55.178946",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -18194,6 +18208,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-03T22:08:49.629252"
     }
   },
   {
