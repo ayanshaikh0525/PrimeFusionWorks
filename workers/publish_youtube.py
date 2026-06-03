@@ -99,7 +99,7 @@ def download_processed_video(
 ):
 
     download_file(
-        video["processed"]["drive_file_id"],
+        video["source"]["drive_file_id"],
         output_path
     )
 
