@@ -22095,14 +22095,29 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Animation",
+        "project": "AI-generated creature showcase",
+        "summary": "A compilation of AI-generated hyper-realistic and fantastical creatures, including a glowing-eyed shark, an aggressive primate, and a mutated crow, showcasing advanced digital rendering techniques.",
+        "materials": [
+          "Digital image generation software",
+          "AI video synthesis tools (e.g., Runway, Luma, or Kling)"
+        ],
+        "tools": [
+          "AI image generator (Midjourney/DALL-E)",
+          "Video editing software (CapCut/Premiere Pro)"
+        ],
+        "viral_hook": "These creatures don't exist... or do they? Witness the most realistic AI-generated monsters ever created."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "Iatngqk5PGo",
+        "uploaded_at": "2026-06-03T15:11:44.021571",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -22116,6 +22131,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-03T15:11:39.849792"
     }
   },
   {
