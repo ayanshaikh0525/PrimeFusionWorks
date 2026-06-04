@@ -23764,14 +23764,29 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Animation",
+        "project": "AI-generated creature transformation",
+        "summary": "A creative visual sequence starting with a friendly frog sitting on an alligator, which then morphs into a monstrous, hybrid swamp creature with glowing eyes and sharp teeth.",
+        "materials": [
+          "AI image generation software",
+          "Video editing software"
+        ],
+        "tools": [
+          "AI video/image generator",
+          "Motion graphics editor"
+        ],
+        "viral_hook": "What happens when a frog and an alligator merge? You won't believe this nightmare creature!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "A1ri8Uwjnis",
+        "uploaded_at": "2026-06-04T18:07:33.792211",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -23785,6 +23800,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-04T18:07:29.897352"
     }
   },
   {
