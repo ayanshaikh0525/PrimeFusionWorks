@@ -27577,14 +27577,29 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Entertainment",
+        "project": "Venom Symbiote Fusions",
+        "summary": "A series of AI-generated illustrations showcasing the Venom symbiote bonding with various iconic pop culture characters including Groot, The Human Torch, Thanos, The Joker, Wolverine, and Iceman.",
+        "materials": [
+          "AI image generation software"
+        ],
+        "tools": [
+          "Midjourney",
+          "Stable Diffusion",
+          "DALL-E 3"
+        ],
+        "viral_hook": "What if Venom took over your favorite superheroes? Which symbiote fusion is the strongest?"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "0MZMLxWtveQ",
+        "uploaded_at": "2026-06-04T12:25:13.601683",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -27598,6 +27613,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-04T12:25:08.917432"
     }
   },
   {
