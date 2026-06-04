@@ -9311,14 +9311,29 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Animation",
+        "project": "AI-Generated Hybrid Creature Showcase",
+        "summary": "A creative montage of surreal, AI-generated hybrid creatures, including a watch-wearing alligator hugging an axolotl, a T-Rex adorned with multiple luxury watches embracing an orca, a bipedal mechanical shark with glowing blue patterns, a winged bear in underwear, and a monstrous winged beast.",
+        "materials": [
+          "AI image generation software (e.g., Midjourney, DALL-E)",
+          "Video animation or transition effects software"
+        ],
+        "tools": [
+          "AI Image Generator",
+          "Video Editing Software"
+        ],
+        "viral_hook": "These AI-generated creature mashups are so bizarre and high-quality they’ll make you question reality."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "1AqtfZVcDD4",
+        "uploaded_at": "2026-06-04T09:07:54.874853",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -9332,6 +9347,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-04T09:07:51.301433"
     }
   },
   {
