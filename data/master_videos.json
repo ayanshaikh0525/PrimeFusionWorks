@@ -1929,14 +1929,28 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Entertainment",
+        "project": "AI-generated creature hybrids and fantasy battles",
+        "summary": "The video features a series of AI-generated images showcasing various creature combinations (like bear-tiger, snake-scorpion, rhino-hyena) and fantasy monster encounters, likely inspired by viewer suggestions.",
+        "materials": [
+          "AI image generation software"
+        ],
+        "tools": [
+          "Generative AI model",
+          "Video editing software"
+        ],
+        "viral_hook": "See what happens when you combine two of the world's deadliest animals into one."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "zHVc90DkGnk",
+        "uploaded_at": "2026-06-04T00:11:03.035030",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -1950,6 +1964,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-04T00:10:58.253907"
     }
   },
   {
