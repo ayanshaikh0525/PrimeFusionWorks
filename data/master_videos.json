@@ -6627,14 +6627,31 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art & Creative Content",
+        "project": "Surreal AI-Generated Animations",
+        "summary": "A compilation of surreal and hyper-realistic AI-generated imagery depicting animals in unusual scenarios, including a cat running on a beach, flamingos in the ocean, a dog in the snow, and giant creature-car hybrids.",
+        "materials": [
+          "AI video generation software",
+          "Digital image assets",
+          "Video editing software"
+        ],
+        "tools": [
+          "AI image generator (e.g., Midjourney)",
+          "AI video animator (e.g., Runway, Luma Dream Machine)",
+          "Video editor"
+        ],
+        "viral_hook": "These AI-generated visuals look so real it's terrifying—would you dare to encounter a giant flamingo on the road?"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "k42TkPV9QeM",
+        "uploaded_at": "2026-06-04T23:42:27.609819",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -6648,6 +6665,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-04T23:42:23.542970"
     }
   },
   {
