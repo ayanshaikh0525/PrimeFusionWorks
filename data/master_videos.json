@@ -22010,14 +22010,29 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / Speculative Fiction",
+        "project": "Underwater Creature Transformation Animation",
+        "summary": "A sequence showing an AI-generated transformation of a gentle sea turtle and crab encounter into a monstrous, spiked, red-eyed creature lurking on the ocean floor.",
+        "materials": [
+          "AI image generation software",
+          "Video interpolation/morphing tools"
+        ],
+        "tools": [
+          "Midjourney or DALL-E",
+          "Runway Gen-2 or Luma Dream Machine"
+        ],
+        "viral_hook": "What starts as a peaceful day under the sea quickly turns into a nightmare—you won't believe what these creatures morph into."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "F8hK-02AS08",
+        "uploaded_at": "2026-06-04T20:30:26.563916",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -22031,6 +22046,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-04T20:30:02.817624"
     }
   },
   {
