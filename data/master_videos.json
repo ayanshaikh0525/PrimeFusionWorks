@@ -27688,14 +27688,25 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Entertainment",
+        "project": "AI-Generated Hybrid Animal Montage",
+        "summary": "A creative series of AI-generated images showcasing surreal, impossible hybrid creatures (such as a snail-mandrill, rhino-sheep, and giraffe-crocodile) set in a savanna environment.",
+        "materials": [],
+        "tools": [
+          "AI image generation software (e.g., Midjourney, DALL-E 3, or Stable Diffusion)"
+        ],
+        "viral_hook": "Nature is glitching! 🧬 Which of these AI-generated nightmares would you actually want to see in the wild?"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "i7T-sf-tRJg",
+        "uploaded_at": "2026-06-04T15:53:10.212668",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -27709,6 +27720,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-04T15:53:05.960923"
     }
   },
   {
