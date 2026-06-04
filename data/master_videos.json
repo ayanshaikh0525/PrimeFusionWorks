@@ -25536,14 +25536,33 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / CGI Animation",
+        "project": "Ferrari to Dragon Morph Animation",
+        "summary": "A high-quality 3D transition video where a luxury red Ferrari on a beach morphs and transforms into a fiery, dark-scaled dragon with glowing orange inner wings and chest.",
+        "materials": [
+          "3D car model",
+          "3D dragon model",
+          "Digital beach environment",
+          "Particle effects"
+        ],
+        "tools": [
+          "Blender",
+          "Unreal Engine",
+          "Adobe After Effects",
+          "AI video generation tools"
+        ],
+        "viral_hook": "The ultimate automotive evolution: Watch this luxury supercar literally turn into a mythical beast."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "E9PXfWmilJ8",
+        "uploaded_at": "2026-06-04T22:04:22.809600",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -25557,6 +25576,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-04T22:04:16.045865"
     }
   },
   {
