@@ -8518,14 +8518,29 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Generated Content",
+        "project": "Mythical Creature Mashups",
+        "summary": "A collection of AI-generated images showcasing hybrid creatures that blend real-world animals with mythical dragon-like features, including winged cheetahs, eagle-dragon hybrids, and armored reptilian monsters.",
+        "materials": [
+          "AI Image Generation Software (e.g., Midjourney, DALL-E 3, Stable Diffusion)"
+        ],
+        "tools": [
+          "Generative AI",
+          "Upscaling tools",
+          "Prompt engineering"
+        ],
+        "viral_hook": "Nature meets Myth: What if these animals were actually dragons?"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "AOGEZuloHJw",
+        "uploaded_at": "2026-06-04T05:17:13.444656",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -8539,6 +8554,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-04T05:17:09.178411"
     }
   },
   {
