@@ -22566,14 +22566,29 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Animation",
+        "project": "Hybrid Monster Transformations",
+        "summary": "A sequence of AI-generated video frames showcasing 'fusion' transformations between two different animals/creatures, merging their characteristics into a single aggressive hybrid monster.",
+        "materials": [
+          "AI-generated imagery",
+          "Video editing software"
+        ],
+        "tools": [
+          "AI image generator (e.g., Midjourney, DALL-E 3)",
+          "Video morphing/animation software (e.g., Runway Gen-2, Luma Dream Machine)"
+        ],
+        "viral_hook": "What happens when you combine the world's most dangerous animals? Watch these creatures fuse into unstoppable monsters."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "vgxWp7mZJr0",
+        "uploaded_at": "2026-06-05T10:40:07.781061",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -22587,6 +22602,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-05T10:40:02.255846"
     }
   },
   {
