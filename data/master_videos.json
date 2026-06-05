@@ -11598,14 +11598,29 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Animation",
+        "project": "AI-Generated Hybrid Creature Transformations",
+        "summary": "A video showcasing a series of surreal transformations where two distinct animals morph into a single, monstrous hybrid creature. The animation features combinations such as a polar bear/snail, an alligator/crab, and a shark/rhino, transitioning from realistic appearances to aggressive, fantastical forms.",
+        "materials": [
+          "AI video generation software (e.g., Runway, Luma Dream Machine, or Kling AI)",
+          "Image-to-video AI tools"
+        ],
+        "tools": [
+          "AI image generator (e.g., Midjourney or DALL-E 3)",
+          "Video editing software (e.g., CapCut or Adobe Premiere)"
+        ],
+        "viral_hook": "What happens when nature's most unlikely animals merge? You won't believe these terrifying hybrid evolutions."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "Ts7_kuGnVXE",
+        "uploaded_at": "2026-06-05T06:47:11.913071",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -11619,6 +11634,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-05T06:47:08.318517"
     }
   },
   {
