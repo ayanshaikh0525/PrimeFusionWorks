@@ -28789,14 +28789,29 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / Generative AI",
+        "project": "AI Hybrid Human-Animal Transformations",
+        "summary": "A series of AI-generated images showcasing the concept of 'human plus animal' hybrids. Each segment features a muscular, athletic human figure standing next to a real animal, transitioning into a stylized, anthropomorphic humanoid version of that animal.",
+        "materials": [
+          "AI image generation software",
+          "Digital compositing"
+        ],
+        "tools": [
+          "Generative AI model (Midjourney/Stable Diffusion)",
+          "Video editing software"
+        ],
+        "viral_hook": "What would a real-life human-animal hybrid look like? Watch these creatures come to life!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "SqBh262Gaxk",
+        "uploaded_at": "2026-06-05T18:19:27.602233",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -28810,6 +28825,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-05T18:19:23.704098"
     }
   },
   {
