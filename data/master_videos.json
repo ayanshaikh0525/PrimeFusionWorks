@@ -1309,14 +1309,28 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Generation",
+        "project": "AI-Generated Mythical Animal Hybrids",
+        "summary": "A collection of AI-generated images featuring various hybrid creatures created by combining different animal characteristics, such as a lion-dragon, bear-shark, and gorilla-crocodile.",
+        "materials": [
+          "AI image generation software",
+          "Digital prompt engineering"
+        ],
+        "tools": [
+          "AI image generator (e.g., Midjourney, DALL-E, or Stable Diffusion)"
+        ],
+        "viral_hook": "What would happen if nature fused these apex predators together? You won't believe these terrifying hybrid creatures!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "aIiarKZ7Ikc",
+        "uploaded_at": "2026-06-05T02:07:13.415226",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -1330,6 +1344,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-05T02:07:09.545894"
     }
   },
   {
