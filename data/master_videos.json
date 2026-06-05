@@ -20292,14 +20292,35 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Entertainment",
+        "project": "AI-generated animal-fruit hybrid creations",
+        "summary": "This video showcases a series of AI-generated conceptual art pieces where different animals are creatively merged with specific fruits (Tiger + Strawberry, Crocodile + Apple, Turtle + Lemon, Elephant + Pomegranate), showing the 'ingredients' and the resulting hybrid creature.",
+        "materials": [
+          "Digital conceptual art",
+          "Tiger",
+          "Strawberry",
+          "Crocodile",
+          "Apple",
+          "Turtle",
+          "Lemon",
+          "Elephant",
+          "Pomegranate"
+        ],
+        "tools": [
+          "AI Image Generation Software (e.g., Midjourney, DALL-E, Stable Diffusion)"
+        ],
+        "viral_hook": "What happens when you combine these animals with these fruits? The results are surreal."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "GzeFrV5oeWE",
+        "uploaded_at": "2026-06-05T21:52:56.383045",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -20313,6 +20334,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-05T21:52:52.359494"
     }
   },
   {
