@@ -4350,14 +4350,30 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Entertainment",
+        "project": "AI Creature Morphing Sequence",
+        "summary": "A video compilation showcasing AI-generated seamless transitions between different creatures (e.g., an orca to a monster, a dragon to a scorpion, a cheetah to an electric predator, and a dragon to a T-Rex).",
+        "materials": [
+          "AI-generated imagery",
+          "Digital animation software"
+        ],
+        "tools": [
+          "Midjourney (or similar text-to-image generator)",
+          "Runway Gen-2 / Luma Dream Machine (video morphing/generation tools)",
+          "Video editing software"
+        ],
+        "viral_hook": "These AI-generated morphs look way too real! Wait for the final transformation."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "GgBD83P6fYw",
+        "uploaded_at": "2026-06-05T16:24:49.111267",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -4371,6 +4387,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-05T16:24:44.890222"
     }
   },
   {
