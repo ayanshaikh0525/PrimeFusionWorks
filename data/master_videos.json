@@ -25534,14 +25534,29 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Video Generation",
+        "project": "AI-Generated Morphing Hybrid Creatures",
+        "summary": "This video showcases a series of AI-generated image morphs where distinct animals blend together to create fantasy hybrid creatures (e.g., gorilla-lion, rhino-bull, wolf-bee). The transitions use a 'plus' icon as an overlay to signify the combination of two species into a new entity.",
+        "materials": [
+          "AI image generation software",
+          "Video editing software"
+        ],
+        "tools": [
+          "Generative AI tool (e.g., Midjourney, Runway, or Kling)",
+          "Video editor (e.g., CapCut or Premiere Pro)"
+        ],
+        "viral_hook": "What happens when you combine these two animals? Wait until you see the final result!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "AFW9rCRnL6k",
+        "uploaded_at": "2026-06-05T22:56:41.908963",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -25555,6 +25570,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-05T22:56:35.442229"
     }
   },
   {
