@@ -5764,14 +5764,30 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Animation",
+        "project": "Surreal AI Creature Transformations",
+        "summary": "A collection of AI-generated video frames featuring surreal, high-fantasy creature transformations and encounters, transitioning from stylized animals like rabbits, sheep, and dolphins into eldritch, monstrous entities in natural and cinematic settings.",
+        "materials": [
+          "AI image generation software",
+          "Video interpolation tools"
+        ],
+        "tools": [
+          "Midjourney",
+          "Runway Gen-2",
+          "Luma Dream Machine"
+        ],
+        "viral_hook": "These AI-generated transformations start cute and end in a nightmare—you won't believe how these animals evolve."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "vN2IkP3Erow",
+        "uploaded_at": "2026-06-05T20:20:57.559884",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -5785,6 +5801,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-05T20:20:53.586556"
     }
   },
   {
