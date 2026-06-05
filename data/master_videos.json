@@ -12422,14 +12422,29 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Educational / Entertainment",
+        "project": "AI-generated wildlife predator combat comparison",
+        "summary": "This video utilizes AI-generated imagery to depict hypothetical 'versus' scenarios between apex predators, specifically showcasing outcomes where lions face off against tigers, gorillas, and grizzly bears, visualizing the potential winner of each fight.",
+        "materials": [
+          "AI image generation software",
+          "Video editing software"
+        ],
+        "tools": [
+          "Midjourney or similar AI image generator",
+          "CapCut or Adobe Premiere Pro"
+        ],
+        "viral_hook": "Who would really win in a fight: Lion, Tiger, Gorilla, or Bear? The results might surprise you."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "CWDkaQoR38I",
+        "uploaded_at": "2026-06-05T13:48:10.971272",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -12443,6 +12458,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-05T13:48:05.963661"
     }
   },
   {
