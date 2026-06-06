@@ -13753,14 +13753,28 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Entertainment",
+        "project": "AI-Generated Hybrid Animal Fusions",
+        "summary": "A creative slideshow video showcasing surreal AI-generated combinations of two different animals. Each segment displays the source animals followed by an imaginative, merged creature featuring traits from both.",
+        "materials": [
+          "AI image generation software (e.g., Midjourney, DALL-E, Stable Diffusion)"
+        ],
+        "tools": [
+          "AI image generator",
+          "Video editing software"
+        ],
+        "viral_hook": "What would it look like if these animals fused together? You won't believe the final result!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "ko7X5vqiXcc",
+        "uploaded_at": "2026-06-06T23:55:07.580342",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -13774,6 +13788,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T23:55:02.832288"
     }
   },
   {
