@@ -18326,14 +18326,29 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Entertainment",
+        "project": "AI-Generated Hybrid Creature Showcase",
+        "summary": "A collection of surreal, AI-generated hybrid creatures blending animals and mythological entities, presented in a fast-paced video montage.",
+        "materials": [
+          "AI-generated imagery",
+          "Digital animation software"
+        ],
+        "tools": [
+          "AI image generator (e.g., Midjourney, DALL-E 3)",
+          "Video editing software"
+        ],
+        "viral_hook": "What would our world look like if nature took a wrong turn? These AI-generated hybrids are absolutely terrifying."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "qt7NJnagc1w",
+        "uploaded_at": "2026-06-06T06:45:50.319188",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -18347,6 +18362,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T06:45:45.565469"
     }
   },
   {
