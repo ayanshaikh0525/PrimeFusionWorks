@@ -7074,14 +7074,29 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Animation",
+        "project": "AI-Generated Cinematic Monster Mashup",
+        "summary": "A collection of AI-generated short video clips showcasing high-fantasy and sci-fi monster encounters. The scenes feature various creatures, including a Godzilla-like reptile, a mystical desert beast, and a giant predatory wolf, interacting with different environments such as oceans and rocky landscapes.",
+        "materials": [
+          "AI video generation software (e.g., Runway, Luma Dream Machine, or Kling AI)",
+          "Image generation prompts"
+        ],
+        "tools": [
+          "AI Video Generation Model",
+          "Video Editing Software"
+        ],
+        "viral_hook": "Are these AI-generated monsters the future of cinematic horror? These hyper-realistic creature encounters will leave you questioning what's real."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "KVWHgSg2zHw",
+        "uploaded_at": "2026-06-06T15:46:43.004981",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -7095,6 +7110,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T15:46:39.330621"
     }
   },
   {
