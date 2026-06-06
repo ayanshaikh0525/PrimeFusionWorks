@@ -26448,14 +26448,26 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Animation",
+        "project": "Hybrid Animal Transformation",
+        "summary": "A sequence of AI-generated animations showing different pairs of animals merging into a single, muscular, glowing-eyed, hybrid creature. The transformations include a mammoth, a winged panther, a stag-beetle bear, and a turtle-tiger.",
+        "materials": [],
+        "tools": [
+          "AI Image Generator",
+          "AI Video Animation Tool"
+        ],
+        "viral_hook": "What happens when you combine two of the world's most powerful animals into one beast?"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "h3I8KO9Q_jo",
+        "uploaded_at": "2026-06-06T19:51:31.413245",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -26469,6 +26481,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T19:51:27.019003"
     }
   },
   {
