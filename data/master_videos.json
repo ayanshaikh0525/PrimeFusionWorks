@@ -20520,14 +20520,25 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Entertainment",
+        "project": "Predator Versus Series",
+        "summary": "A series of AI-generated images depicting a 'Predator' figure in a vs battle format, initially fighting various animals, then eventually being defeated by different alien or fantasy creatures.",
+        "materials": [],
+        "tools": [
+          "AI Image Generator (e.g., Midjourney, DALL-E, or Stable Diffusion)"
+        ],
+        "viral_hook": "Who would win? A series of intense, cinematic AI battle scenarios pitting a legendary sci-fi hunter against unexpected opponents, building to a dramatic plot twist."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "0ukzlo3TLbI",
+        "uploaded_at": "2026-06-06T18:01:48.149673",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -20541,6 +20552,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T18:01:43.896242"
     }
   },
   {
