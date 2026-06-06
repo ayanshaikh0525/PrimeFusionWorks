@@ -16929,14 +16929,31 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Animation",
+        "project": "AI-Generated Mythical Creature Showdown",
+        "summary": "A series of AI-generated visuals depicting monstrous, hybrid creatures (Hulk-like hippos, tigers, and giant rabbits) in dramatic, cinematic environments.",
+        "materials": [
+          "AI Image Generation Software (e.g., Midjourney, DALL-E 3)",
+          "Video Editing Software (e.g., CapCut, Premiere Pro)",
+          "AI Video Synthesis Tools (e.g., Runway Gen-2 or Luma Dream Machine)"
+        ],
+        "tools": [
+          "Generative AI Models",
+          "Digital Compositing Suite",
+          "Prompt Engineering"
+        ],
+        "viral_hook": "What happens when you cross a Hulk with a hippo? These AI-generated monsters are taking over the internet!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "RNeHcrPUj40",
+        "uploaded_at": "2026-06-06T16:57:12.505798",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -16950,6 +16967,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T16:57:02.289682"
     }
   },
   {
