@@ -25878,14 +25878,28 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Generation",
+        "project": "Superheroes in Retirement",
+        "summary": "A series of AI-generated portraits depicting iconic superheroes (Batman, Iron Man, Thor, Superman, and Wonder Woman) in their older, retired years, reflecting on their past lives.",
+        "materials": [
+          "Digital assets",
+          "Conceptual character designs"
+        ],
+        "tools": [
+          "AI image generation software (e.g., Midjourney, DALL-E, or Stable Diffusion)"
+        ],
+        "viral_hook": "What would our favorite superheroes look like if they retired? 👴🦸‍♂️ See the legends age in these hyper-realistic portraits."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "tc8N3cuGXZY",
+        "uploaded_at": "2026-06-06T11:02:36.404326",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -25899,6 +25913,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T11:02:27.200351"
     }
   },
   {
