@@ -6919,14 +6919,28 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Animation",
+        "project": "AI-Generated Surrealist Creature Transformation",
+        "summary": "A sequence of AI-generated images showcasing a surreal morphological transformation. The video begins with a natural rooster and a fish in natural settings, which then morph into eldritch, tentacled humanoid-monster hybrids that grow to kaiju-like proportions, eventually interacting with urban environments like cars.",
+        "materials": [
+          "AI video generation software (e.g., Runway Gen-2, Luma Dream Machine, or Kling AI)"
+        ],
+        "tools": [
+          "AI image generator (Midjourney/DALL-E 3)",
+          "AI motion interpolation/video tool"
+        ],
+        "viral_hook": "Watching a harmless farm animal turn into an Eldritch nightmare in 10 seconds is strangely addictive."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "IFGNN8-BwFM",
+        "uploaded_at": "2026-06-06T21:54:43.874526",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -6940,6 +6954,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T21:54:31.460597"
     }
   },
   {
