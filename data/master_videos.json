@@ -17872,14 +17872,31 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Animation",
+        "project": "AI-generated creature hybrids and animal face-offs",
+        "summary": "A collection of AI-generated short video clips showcasing surreal creature mashups (e.g., shark-rat, lion-turtle) and dramatic animal confrontations (e.g., elephant vs. gorilla, rooster vs. rat). The video relies on high-contrast, cinematic lighting to highlight the fantastical anatomy of these hybrid beings.",
+        "materials": [
+          "AI image generation software",
+          "Video animation tool",
+          "Prompt engineering"
+        ],
+        "tools": [
+          "Midjourney",
+          "Runway Gen-2",
+          "Luma Dream Machine"
+        ],
+        "viral_hook": "What happens when you let AI create the world's most terrifying animal hybrids? You won't believe the final creature."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "sY3LLcRu83g",
+        "uploaded_at": "2026-06-06T00:00:31.733988",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -17893,6 +17910,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T00:00:26.350367"
     }
   },
   {
