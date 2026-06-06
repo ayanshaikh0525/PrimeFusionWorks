@@ -22647,14 +22647,31 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Entertainment",
+        "project": "AI-Generated Hybrid Creatures",
+        "summary": "A showcase of surreal, AI-generated hybrid creatures, including a mammoth-armadillo, a T-Rex-polar bear, and a shark-scorpion. The video displays these fantastical beasts in various environments, emphasizing imaginative, high-fidelity monster design.",
+        "materials": [
+          "AI image generation software",
+          "Video editing software",
+          "Image-to-video animation tools"
+        ],
+        "tools": [
+          "Midjourney or DALL-E 3",
+          "Runway Gen-2 or Pika Labs",
+          "CapCut or Adobe Premiere"
+        ],
+        "viral_hook": "What would these impossible hybrid monsters look like in real life? The T-Rex bear is nightmare fuel!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "zoJW_3vEA3Q",
+        "uploaded_at": "2026-06-06T20:53:43.686418",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -22668,6 +22685,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T20:53:31.837229"
     }
   },
   {
