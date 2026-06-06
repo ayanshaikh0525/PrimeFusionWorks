@@ -30190,14 +30190,28 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Animation",
+        "project": "Strawberry Crab Morph",
+        "summary": "A sequence of frames showcasing a surreal AI animation transition where a plate of fresh strawberries slowly morphs into a plate of red crabs, blending the shapes and textures of the fruit with the anatomy of the crustaceans.",
+        "materials": [
+          "Strawberries",
+          "Crabs"
+        ],
+        "tools": [
+          "Generative AI Video Tool (e.g., Runway, Luma Dream Machine, or Kling)"
+        ],
+        "viral_hook": "Nature is glitching! Watch what happens when these strawberries turn into something else entirely."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "ri1DXgBRiSs",
+        "uploaded_at": "2026-06-06T03:41:49.236495",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -30211,6 +30225,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T03:41:45.080382"
     }
   },
   {
