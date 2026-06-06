@@ -17518,14 +17518,28 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Generated Content",
+        "project": "Cybernetic Animal-Vehicle Hybrids",
+        "summary": "A collection of AI-generated imagery depicting various animals (lions, wolves, rhinos, porcupines) merged with military machinery like tanks and helicopters in stylized, dramatic environments.",
+        "materials": [
+          "Digital AI art generation software",
+          "Concept art style parameters"
+        ],
+        "tools": [
+          "AI image generator (e.g., Midjourney, DALL-E 3, or Stable Diffusion)"
+        ],
+        "viral_hook": "Nature meets war: What if animals were engineered as living tanks?"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "M511ytMGVqA",
+        "uploaded_at": "2026-06-06T12:49:22.271953",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -17539,6 +17553,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T12:49:10.385506"
     }
   },
   {
