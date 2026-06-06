@@ -23791,14 +23791,30 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Animation",
+        "project": "Hybrid Monster Showcase",
+        "summary": "A series of AI-generated animations depicting fantastical hybrid creatures, such as a tiger-buffalo crossbreed, a wolf-lizard chimera, and a mammoth-dinosaur hybrid in dramatic, atmospheric environments.",
+        "materials": [
+          "AI video generation software (e.g., Runway, Luma Dream Machine, or Kling AI)",
+          "Image generation software (e.g., Midjourney, DALL-E 3)"
+        ],
+        "tools": [
+          "AI image generator",
+          "AI video animator",
+          "Video editing software"
+        ],
+        "viral_hook": "Nature made them powerful, but AI made them unstoppable. What happens when two apex predators combine into one?"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "3-YnZqgvgLQ",
+        "uploaded_at": "2026-06-06T14:23:58.385435",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -23812,6 +23828,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T14:23:54.504468"
     }
   },
   {
