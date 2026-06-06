@@ -17376,14 +17376,29 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Entertainment",
+        "project": "AI-generated animal hybrid fusion",
+        "summary": "A creative visual showcase using AI to merge two different animals into a single, imaginative hybrid creature, cycling through pairs like Crocodile + Lamb, Bear + Mouse, Shark + Gorilla, and Rhino + Mouse.",
+        "materials": [
+          "AI image generation software",
+          "Video editing software"
+        ],
+        "tools": [
+          "Midjourney or DALL-E",
+          "CapCut or similar video editor"
+        ],
+        "viral_hook": "What would happen if you combined these two animals? The result is absolutely terrifying."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "IcLHHw9SCO4",
+        "uploaded_at": "2026-06-06T09:16:40.151131",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -17397,6 +17412,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T09:16:33.210259"
     }
   },
   {
