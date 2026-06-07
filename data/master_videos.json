@@ -3962,14 +3962,32 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Animation",
+        "project": "AI-Generated Cinematic Creature Sequence",
+        "summary": "A collection of AI-generated video frames featuring a variety of high-detail creatures, including dinosaurs and predatory felines, interacting with futuristic tech-cubes, mechanical elements, and post-apocalyptic environments. The imagery transitions from calm, stylized park settings to intense, cinematic battlefield scenes with high-tech vehicles and glowing biomechanical dinosaurs.",
+        "materials": [
+          "Digital AI-generated assets",
+          "Conceptual creature designs",
+          "Futuristic electronic interfaces",
+          "Environment textures"
+        ],
+        "tools": [
+          "AI video generation software (e.g., Runway Gen-2, Pika Labs, or Sora)",
+          "AI image synthesis tools (e.g., Midjourney or DALL-E 3)",
+          "Video editing/compositing software"
+        ],
+        "viral_hook": "What happens when prehistoric creatures meet futuristic technology? Watch these AI-imagined scenes of mechanical dinosaurs and mysterious glowing artifacts."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "ituuvFuEf4g",
+        "uploaded_at": "2026-06-07T19:14:08.084177",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -3983,6 +4001,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T19:13:55.278444"
     }
   },
   {
