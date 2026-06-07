@@ -22047,14 +22047,28 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Entertainment",
+        "project": "AI-Generated Hyper-Realistic Animal Hybrids",
+        "summary": "This video showcases a collection of AI-generated, surreal, and hyper-realistic images depicting animals with human-like, muscular, or supernatural physical traits. The montage features a bodybuilder-style flamingo with a pumpkin-like body, a shark with an oversized human-like maw, a young child feeding a realistic flamingo, a spindly, long-limbed creature based on a flamingo, and a muscular, green, alien-like bird with a glowing head.",
+        "materials": [
+          "AI image generation software (e.g., Midjourney, DALL-E 3, Runway)"
+        ],
+        "tools": [
+          "AI text-to-image generator",
+          "Video editing software"
+        ],
+        "viral_hook": "Nature just got a workout—you won't believe these AI-generated nightmares!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "JoWI3nb5HK8",
+        "uploaded_at": "2026-06-07T13:17:01.136790",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -22068,6 +22082,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T13:16:49.577718"
     }
   },
   {
