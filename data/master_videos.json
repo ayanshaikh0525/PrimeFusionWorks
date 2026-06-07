@@ -17529,14 +17529,28 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "AI Art / Concept Visualization",
+        "project": "Hybrid Vehicle Concept Design",
+        "summary": "A video compilation showcasing AI-generated concept art that blends two distinct types of vehicles or modes of transport into a single, futuristic hybrid design.",
+        "materials": [
+          "AI image generation software"
+        ],
+        "tools": [
+          "AI image generator (e.g., Midjourney, DALL-E)",
+          "Video editing software"
+        ],
+        "viral_hook": "What happens when you combine two completely different vehicles? The results are mind-blowing."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "phoLu_bgNgw",
+        "uploaded_at": "2026-06-07T21:57:32.911925",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -17550,6 +17564,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T21:57:17.945094"
     }
   },
   {
