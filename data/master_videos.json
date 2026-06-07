@@ -6620,14 +6620,31 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Animation",
+        "project": "AI-Generated Mythical Creature Showcases",
+        "summary": "A video presentation showcasing a series of AI-generated hybrid fantasy creatures, including a leopard-peacock, a hippo-octopus, and a snake-phoenix hybrid, set in various ethereal environments.",
+        "materials": [
+          "Digital illustration software",
+          "AI image generation tool",
+          "Video animation software"
+        ],
+        "tools": [
+          "Midjourney or DALL-E 3 (Image generation)",
+          "Runway Gen-2 or Luma Dream Machine (Video animation)",
+          "CapCut or Adobe Premiere (Editing)"
+        ],
+        "viral_hook": "These AI-generated hybrid animals look too real! Which creature is your favorite?"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "67ME1RkNTxk",
+        "uploaded_at": "2026-06-07T02:14:35.343822",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -6641,6 +6658,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T02:14:25.823421"
     }
   },
   {
