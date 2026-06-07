@@ -26067,14 +26067,31 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Generated Imagery",
+        "project": "Food-themed Haute Couture Fashion Show",
+        "summary": "A series of AI-generated images featuring toddlers dressed in elaborate haute couture outfits crafted entirely from various fruits and vegetables, including bell peppers, bananas, pineapples, and blueberries, styled as if walking down a professional fashion runway.",
+        "materials": [
+          "Bell peppers",
+          "Bananas",
+          "Pineapples",
+          "Blueberries",
+          "Assorted fresh produce"
+        ],
+        "tools": [
+          "AI Image Generation Software (e.g., Midjourney, DALL-E, Stable Diffusion)"
+        ],
+        "viral_hook": "Forget Fashion Week—the cutest runway show on earth is here, and it's made entirely of snacks! Which produce-inspired look would you wear?"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "v10khUJ7fTw",
+        "uploaded_at": "2026-06-07T17:58:00.115764",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -26088,6 +26105,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T17:57:56.210197"
     }
   },
   {
