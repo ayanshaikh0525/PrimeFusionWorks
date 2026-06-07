@@ -27618,14 +27618,29 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Generated Content",
+        "project": "Surreal AI Animal Hybrid Showcase",
+        "summary": "A collection of AI-generated images depicting various surreal animal hybrids and fantasy creatures, such as a glowing-eyed bulldog, a cow-bulldog mix, a shark-mouse hybrid, and a demonic horse-creature.",
+        "materials": [
+          "AI image generation software (e.g., Midjourney, DALL-E 3)",
+          "Digital rendering platform"
+        ],
+        "tools": [
+          "AI prompt engineering",
+          "Video editing software for transition effects"
+        ],
+        "viral_hook": "These AI-generated animals are so realistic they're actually terrifying—which one do you think shouldn't exist?"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "blES76k6mDY",
+        "uploaded_at": "2026-06-07T16:49:44.011645",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -27639,6 +27654,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T16:49:28.923199"
     }
   },
   {
