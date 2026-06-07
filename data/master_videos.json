@@ -20380,14 +20380,29 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Entertainment / Pop Culture",
+        "project": "Superman vs. Marvel Universe Hypothetical Battle Series",
+        "summary": "A viral-style video compilation featuring AI-generated imagery depicting Superman in hypothetical one-on-one combat scenarios against various Marvel characters, including Captain America, Doctor Strange, Loki, Venom, Thor, and Iron Man.",
+        "materials": [
+          "AI image generation software",
+          "Video editing software"
+        ],
+        "tools": [
+          "Midjourney or similar AI image generators",
+          "CapCut or Adobe Premiere Pro"
+        ],
+        "viral_hook": "Who can actually defeat Superman? Watch him take on the entire Marvel universe in these epic showdowns."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "RREHYv34wfE",
+        "uploaded_at": "2026-06-07T22:58:22.661464",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -20401,6 +20416,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T22:58:10.999220"
     }
   },
   {
