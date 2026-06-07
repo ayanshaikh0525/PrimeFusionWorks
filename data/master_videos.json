@@ -8854,14 +8854,31 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Animation",
+        "project": "AI-Generated Cybernetic Animal Transformation",
+        "summary": "This video utilizes AI morphing technology to transform realistic footage of marine life (orcas) and land animals (giraffes) into stylized, weaponized, sci-fi cybernetic versions of themselves, complete with laser effects and mechanical plating.",
+        "materials": [
+          "AI generated imagery",
+          "Digital video frames",
+          "Source footage of animals"
+        ],
+        "tools": [
+          "AI Video Generation Software (e.g., Runway Gen-2, Luma Dream Machine)",
+          "Video Editing Software",
+          "Stable Diffusion/Midjourney for character design"
+        ],
+        "viral_hook": "What happens when nature gets a futuristic AI upgrade? Watch these animals turn into high-tech war machines in seconds."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "5t9kJEuv0a4",
+        "uploaded_at": "2026-06-07T15:08:03.524505",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -8875,6 +8892,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T15:07:48.870007"
     }
   },
   {
