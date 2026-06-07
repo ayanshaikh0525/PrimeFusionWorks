@@ -8090,14 +8090,29 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Content",
+        "project": "AI-generated creature slideshow",
+        "summary": "A compilation of AI-generated imagery showcasing various fictional creatures, including Venom, a wasp-like insect, a surreal furry monster, a Scottish Highland cow, and a mythical dragon.",
+        "materials": [
+          "AI image generation software",
+          "Digital video editing software"
+        ],
+        "tools": [
+          "AI image generator (e.g., Midjourney, DALL-E, or Stable Diffusion)",
+          "Video editing application"
+        ],
+        "viral_hook": "These AI-generated creatures look so real, it's actually terrifying! Which one would you choose to have as a pet?"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "-9zj18cHZ94",
+        "uploaded_at": "2026-06-07T06:46:36.258684",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -8111,6 +8126,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T06:46:23.094793"
     }
   },
   {
