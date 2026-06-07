@@ -565,14 +565,26 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Educational / Entertainment",
+        "project": "AI-generated hypothetical animal hybrid scenarios",
+        "summary": "The video presents a series of AI-generated illustrations depicting the fusion of two different animals' DNA, followed by a visualization of the resulting creature as a giant, monstrous entity.",
+        "materials": [],
+        "tools": [
+          "AI image generator",
+          "Video editing software"
+        ],
+        "viral_hook": "What would happen if we combined the DNA of two different animals? See these terrifying results."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "kZa5hjs5tgg",
+        "uploaded_at": "2026-06-07T11:41:52.513860",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -586,6 +598,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T11:41:45.602985"
     }
   },
   {
