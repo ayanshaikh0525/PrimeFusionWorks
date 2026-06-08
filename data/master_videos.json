@@ -28331,14 +28331,34 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Creative Arts / Fashion",
+        "project": "Nature-Inspired Baby Runway Costumes",
+        "summary": "A showcase of AI-generated imagery depicting babies walking on a fashion runway, wearing elaborate couture outfits made entirely of natural produce including sweet potatoes, citrus slices, corn, and pumpkins.",
+        "materials": [
+          "Sweet potatoes",
+          "Citrus slices",
+          "Corn cobs",
+          "Pumpkins",
+          "Gourd varieties",
+          "Tree branches",
+          "Leaves"
+        ],
+        "tools": [
+          "Generative AI imaging software",
+          "Digital design tools"
+        ],
+        "viral_hook": "Imagine a fashion show where nature is the designer! See these adorable babies rocking outfits made entirely out of real food—from corn couture to pumpkin high fashion."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "UQCz-UTh-Jg",
+        "uploaded_at": "2026-06-08T23:07:01.292586",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -28352,6 +28372,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-08T23:06:57.102046"
     }
   },
   {
