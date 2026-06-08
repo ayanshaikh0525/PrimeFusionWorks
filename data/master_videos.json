@@ -29585,14 +29585,29 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Transformation",
+        "project": "AI-Generated Human-Animal Hybrids",
+        "summary": "A showcase of AI-generated character concepts featuring muscular human figures morphing into mythical animal-human hybrid creatures (Snow Leopard, Bear, Goat, Gorilla, and Eagle).",
+        "materials": [
+          "AI-generated digital images",
+          "Digital animation/transitions"
+        ],
+        "tools": [
+          "AI image generation software (e.g., Midjourney, Stable Diffusion)",
+          "Video editing software (e.g., CapCut, Adobe Premiere)"
+        ],
+        "viral_hook": "What would it look like if humans merged with powerful wild animals? Witness these incredible hybrid transformations."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "s46rVp2Tph8",
+        "uploaded_at": "2026-06-08T14:06:57.921300",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -29606,6 +29621,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-08T14:06:52.374352"
     }
   },
   {
