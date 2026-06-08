@@ -27268,14 +27268,33 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Culinary / Food Styling",
+        "project": "Shrimp Fried Rice Presentation",
+        "summary": "A visually appealing, high-contrast shot of a shrimp and rice dish arranged in a rustic bowl. The scene is lit with warm, moody lighting, featuring a lit candle in the background and a lemon slice garnish, emphasizing a professional food photography aesthetic.",
+        "materials": [
+          "Shrimp",
+          "Rice",
+          "Vegetables (peas, carrots)",
+          "Lemon",
+          "Fresh herbs (parsley/garnish)"
+        ],
+        "tools": [
+          "Rustic ceramic bowl",
+          "Glass candle holder",
+          "Studio lighting/softbox"
+        ],
+        "viral_hook": "Stop scrolling! This is how you plate shrimp fried rice to make it look like a 5-star restaurant meal. 🍤✨"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "Pd12_paOjR8",
+        "uploaded_at": "2026-06-08T21:49:23.526429",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -27289,6 +27308,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-08T21:49:19.388284"
     }
   },
   {
