@@ -7134,14 +7134,25 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Animation",
+        "project": "AI-generated sci-fi dinosaur transformations",
+        "summary": "This video features a compilation of AI-generated clips showing dinosaurs transitioning between different states, including a realistic biological form swimming underwater and a mechanical, cybernetic version breathing light or energy in a landscape setting.",
+        "materials": [],
+        "tools": [
+          "AI Video Generation Software (e.g., Runway, Luma Dream Machine, or Kling AI)"
+        ],
+        "viral_hook": "What if dinosaurs were actually cyborgs from the future?"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "8H2Pr1reIBk",
+        "uploaded_at": "2026-06-08T05:09:35.512473",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -7155,6 +7166,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-08T05:09:31.348662"
     }
   },
   {
