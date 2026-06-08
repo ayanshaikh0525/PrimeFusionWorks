@@ -4932,14 +4932,29 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art & AI Content",
+        "project": "AI-Generated Country-Themed Kaiju/Godzilla Titans",
+        "summary": "A creative montage showcasing AI-generated illustrations of various countries reimagined as unique, colossal Godzilla-style monsters. The video transitions between different monsters, each labeled with a specific country name.",
+        "materials": [
+          "AI image generation prompts",
+          "Source imagery of country aesthetics/symbolism"
+        ],
+        "tools": [
+          "AI Image Generation Software (e.g., Midjourney, DALL-E, or Stable Diffusion)",
+          "Video Editing Software (e.g., CapCut, Adobe Premiere Pro)"
+        ],
+        "viral_hook": "What would your country look like as a terrifying Godzilla monster?"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "c_LJXV1ofYM",
+        "uploaded_at": "2026-06-08T00:03:21.610867",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -4953,6 +4968,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-08T00:03:16.006503"
     }
   },
   {
