@@ -3156,14 +3156,29 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Animation",
+        "project": "AI-Generated Morphing Dinosaur-Robot Sequence",
+        "summary": "A sequence of AI-generated images showcasing a series of smooth, surreal transitions between a small dinosaur, a heron-like bird, and a massive mechanical T-Rex. The video leverages AI morphing techniques to seamlessly blend organic creatures with complex robotic/cybernetic structures.",
+        "materials": [
+          "AI-generated imagery",
+          "Digital assets"
+        ],
+        "tools": [
+          "AI image generation software (e.g., Midjourney)",
+          "AI video/morphing software (e.g., Runway Gen-2, Luma Dream Machine, or Kling AI)"
+        ],
+        "viral_hook": "Watch these creatures evolve from tiny dinosaurs into terrifying mechanical monsters in seconds!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "rxnWiQqx35A",
+        "uploaded_at": "2026-06-08T17:32:28.060467",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -3177,6 +3192,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-08T17:32:23.900274"
     }
   },
   {
