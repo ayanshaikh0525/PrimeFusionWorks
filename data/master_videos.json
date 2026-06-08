@@ -9955,14 +9955,27 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Entertainment",
+        "project": "AI-Generated Animal Hybrid Fusion",
+        "summary": "A creative series featuring AI-generated mashups of two different animals combined into a single, humanoid-like creature. The video presents the 'ingredients' (two distinct animals) followed by the resulting monstrous fusion.",
+        "materials": [
+          "Digital AI art generation software"
+        ],
+        "tools": [
+          "AI Image Generator (e.g., Midjourney, DALL-E, or Stable Diffusion)"
+        ],
+        "viral_hook": "What would it look like if you merged two animals together? Watch these bizarre and terrifyingly cool creature fusions come to life."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "CYU7YRiyGKY",
+        "uploaded_at": "2026-06-08T19:58:53.997948",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -9976,6 +9989,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-08T19:58:47.894545"
     }
   },
   {
