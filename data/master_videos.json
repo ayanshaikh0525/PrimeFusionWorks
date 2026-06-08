@@ -10836,14 +10836,28 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Exploration",
+        "project": "AI Creature Fusion",
+        "summary": "This video showcases a series of AI-generated character transformations, where two distinct entities are combined to create a single, hybrid mythological or sci-fi creature. Examples include a Hydra-Snake, an Octopus-Robot, and a Demon-Rhino.",
+        "materials": [
+          "AI image generation software"
+        ],
+        "tools": [
+          "AI Image Generator (e.g., Midjourney, DALL-E, or Stable Diffusion)",
+          "Video editing software"
+        ],
+        "viral_hook": "What would happen if you fused these two creatures together? Watch the terrifying result."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "hi9cRGvHpzg",
+        "uploaded_at": "2026-06-08T09:59:39.886875",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -10857,6 +10871,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-08T09:59:35.402161"
     }
   },
   {
