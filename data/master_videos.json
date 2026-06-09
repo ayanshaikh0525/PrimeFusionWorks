@@ -13793,14 +13793,29 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Animation",
+        "project": "AI-generated creature transformation and city destruction sequence",
+        "summary": "A creative transition sequence showcasing AI-generated video loops: beginning with a terrifying, massive, glowing-eyed monster bear rampaging through a debris-filled city, transitioning into peaceful clips of a rhinoceros walking through a lush flower field, and finally featuring dramatic, zoom-in effects of a large bird of prey landing in a snowy landscape.",
+        "materials": [
+          "AI video generation software (e.g., Runway Gen-2, Luma Dream Machine, or Kling AI)",
+          "Digital source imagery"
+        ],
+        "tools": [
+          "AI image-to-video generator",
+          "Video editing software (e.g., CapCut, Premiere Pro)"
+        ],
+        "viral_hook": "The jarring contrast between a nightmare city apocalypse and a peaceful nature meadow creates a 'scroll-stopping' visual shock that keeps viewers watching to see the next transformation."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "eZ515DGRbWI",
+        "uploaded_at": "2026-06-09T01:26:17.642127",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -13814,6 +13829,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-09T01:26:13.552219"
     }
   },
   {
