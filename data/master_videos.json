@@ -17930,14 +17930,29 @@
       "deleted": false
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Experimentation",
+        "project": "AI Creature Mashups",
+        "summary": "This video showcases a series of AI-generated 'mashups' or hybrid creatures created by combining two distinct animals or characters. Each segment displays the base elements with a plus sign, followed by the resulting imagined hybrid creature.",
+        "materials": [
+          "Digital concepts of animals and characters",
+          "Generative AI image creation tools"
+        ],
+        "tools": [
+          "AI image generation software",
+          "Video editing software"
+        ],
+        "viral_hook": "What would happen if you combined these two creatures? Watch to see the terrifying and incredible results of these AI hybrids!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "62mky_632GA",
+        "uploaded_at": "2026-06-09T05:38:07.328745",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -17951,6 +17966,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-09T05:37:53.714365"
     }
   },
   {
